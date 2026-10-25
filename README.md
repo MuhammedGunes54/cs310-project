@@ -7,7 +7,7 @@ SUVoice is a Twitter-like social media app built exclusively for the Sabancı Un
 
 **Intended users:** Sabancı University students.
 
-## Group [No]
+## Group [29]
 
 | Name | Student ID |
 |------|-----------|
