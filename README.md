@@ -13,6 +13,6 @@ SUVoice is a Twitter-like social media app built exclusively for the Sabancı Un
 |------|-----------|
 | Muhammed Mustafa Güneş | 34313 |
 | Büşra Nur Enci | 34457 |
-| Kerimcan Halıcı | [34192] |
+| Kerimcan Halıcı | 34192 |
 
 **Step 1 Coordinator:** Muhammed Mustafa Güneş
